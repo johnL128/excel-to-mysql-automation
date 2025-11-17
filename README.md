@@ -3,7 +3,7 @@
 **Tools:** Python, MySQL, OpenPyXL
 
 ## Description
-This project demonstrates a workflow for automating the transfer of sales data from Excel to a MySQL database using **Python**. The script handles data cleaning, aggregation, and automated updates to the database, reducing manual workload and improving data accuracy.
+This project demonstrates a workflow for automating the transfer of sales data from Excel to a MySQL database using python. The script handles data cleaning, aggregation, and automated updates to the database, reducing manual workload and improving data accuracy.
 
 **Note:** The project is based on real-world-style data, but no sensitive company information is included. Sample or mock data can be used to run the scripts safely.
 
